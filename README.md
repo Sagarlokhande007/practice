@@ -1,3 +1,2 @@
 # sample
-not a code,
-only demo
+author - Sagar lokhande
